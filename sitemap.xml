@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- ===== Main pages ===== -->
+  <url><loc>https://lucknowtaxi.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://lucknowtaxi.com/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://lucknowtaxi.com/fleet.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lucknowtaxi.com/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lucknowtaxi.com/routes.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknowtaxi.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- ===== Route landing pages =====
+       If you deploy routes as SUBDOMAINS, use the subdomain <loc> shown
+       below AND submit a separate sitemap for each subdomain. If you deploy
+       them as SUBFOLDER pages, change <loc> to
+       https://lucknowtaxi.com/route-template/lucknow-to-kanpur.html etc. -->
+  <url><loc>https://lucknow-to-kanpur.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-ayodhya.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-prayagraj.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-varanasi.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-agra.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-gorakhpur.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-delhi.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-haridwar.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-nainital.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lucknow-to-mathura.lucknowtaxi.com/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <!-- Add one <url> line per new route page you publish (target: 50+). -->
+</urlset>

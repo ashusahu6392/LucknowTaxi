@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Sedan taxi">
+  <ellipse cx="160" cy="158" rx="120" ry="12" fill="#0B2454" opacity="0.08"/>
+  <path d="M40 120 L70 86 C76 78 86 72 98 72 L196 72 C210 72 222 78 232 90 L262 116 L286 124 C294 126 298 132 298 140 L298 122 C298 126 294 130 288 130 L44 130 C36 130 30 124 30 116 C30 110 34 106 40 104 Z" fill="#FF6B00"/>
+  <path d="M44 120 L72 90 C78 82 88 78 98 78 L192 78 C204 78 214 82 222 92 L246 118 Z" fill="#cfe0ff"/>
+  <path d="M132 78 L132 118 M188 80 L188 118" stroke="#FF6B00" stroke-width="4"/>
+  <rect x="30" y="116" width="268" height="16" rx="8" fill="#e85f00"/>
+  <circle cx="92" cy="132" r="22" fill="#0B2454"/><circle cx="92" cy="132" r="10" fill="#9fb3d8"/>
+  <circle cx="238" cy="132" r="22" fill="#0B2454"/><circle cx="238" cy="132" r="10" fill="#9fb3d8"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Innova Crysta premium taxi">
+  <ellipse cx="160" cy="158" rx="128" ry="12" fill="#0B2454" opacity="0.08"/>
+  <path d="M30 126 L33 74 C34 66 40 60 49 60 L226 60 C235 60 243 64 249 72 L274 108 L290 118 C296 121 298 126 298 134 L298 124 C298 128 294 132 288 132 L36 132 C32 132 28 128 28 122 Z" fill="#FF6B00"/>
+  <path d="M46 66 L222 66 C229 66 235 69 240 76 L262 108 L46 108 Z" fill="#cfe0ff"/>
+  <path d="M104 66 L104 108 M162 66 L162 108 M220 70 L240 104" stroke="#FF6B00" stroke-width="4"/>
+  <rect x="28" y="118" width="270" height="16" rx="8" fill="#e85f00"/>
+  <circle cx="90" cy="134" r="24" fill="#0B2454"/><circle cx="90" cy="134" r="11" fill="#9fb3d8"/>
+  <circle cx="244" cy="134" r="24" fill="#0B2454"/><circle cx="244" cy="134" r="11" fill="#9fb3d8"/>
+</svg>

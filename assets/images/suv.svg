@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="SUV taxi">
+  <ellipse cx="160" cy="158" rx="124" ry="12" fill="#0B2454" opacity="0.08"/>
+  <path d="M36 124 L40 78 C41 70 47 64 56 64 L214 64 C224 64 233 69 239 78 L266 112 L286 120 C293 123 296 128 296 136 L296 124 C296 128 292 132 286 132 L42 132 C38 132 34 128 34 122 Z" fill="#FF6B00"/>
+  <path d="M52 70 L210 70 C218 70 225 74 230 82 L250 110 L52 110 Z" fill="#cfe0ff"/>
+  <path d="M120 70 L120 110 M178 70 L178 110" stroke="#FF6B00" stroke-width="4"/>
+  <rect x="34" y="118" width="262" height="16" rx="8" fill="#e85f00"/>
+  <circle cx="92" cy="134" r="24" fill="#0B2454"/><circle cx="92" cy="134" r="11" fill="#9fb3d8"/>
+  <circle cx="240" cy="134" r="24" fill="#0B2454"/><circle cx="240" cy="134" r="11" fill="#9fb3d8"/>
+</svg>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block the raw reusable template from being indexed
+Disallow: /route-template/_route-template.html
+
+Sitemap: https://lucknowtaxi.com/sitemap.xml
