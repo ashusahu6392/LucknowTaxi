@@ -102,13 +102,14 @@ img { max-width: 100%; height: auto; }
    ========================================================= */
 .hero {
   position: relative; color: #fff; padding: 110px 0 90px;
-  background:
-    linear-gradient(120deg, rgba(11,36,84,.92) 0%, rgba(11,36,84,.78) 55%, rgba(255,107,0,.55) 100%),
-    url('../images/hero-bg.svg') center/cover no-repeat;
+  background-image: url('../images/Hero_BG.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 .hero::after {
-  content: ""; position: absolute; inset: 0; pointer-events: none;
-  background: radial-gradient(circle at 80% 20%, rgba(255,107,0,.25), transparent 45%);
+  content: "";
+  display: none;
 }
 .hero .container { position: relative; z-index: 2; }
 .hero h1 { color: #fff; font-size: clamp(2rem, 5vw, 3.25rem); font-weight: 800; }
@@ -352,5 +353,17 @@ footer .foot-contact { padding: 0; }
   .mobile-bar { display: flex; }
   body { padding-bottom: 58px; }
   .cta-banner { padding: 30px 22px; text-align: center; }
+  .hero {
+    background-image: url('../images/Hero_BG_Mobile.png');
+    background-attachment: scroll;
+  }
+  .hero::after {
+    display: block;
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(180deg, rgba(11,36,84,.8) 0%, rgba(11,36,84,.72) 55%, rgba(255,107,0,.35) 100%);
+  }
   .hero-badges { gap: 12px; }
 }
