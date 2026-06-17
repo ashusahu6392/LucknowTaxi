@@ -3,7 +3,9 @@
     "allow": [
       "mcp__Claude_Preview__preview_start",
       "Bash(npx --version)",
-      "Bash(py --version)"
+      "Bash(py --version)",
+      "Bash(gh auth *)",
+      "Bash(gh api *)"
     ]
   }
 }
